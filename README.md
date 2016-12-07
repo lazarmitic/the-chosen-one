@@ -1,4 +1,4 @@
-# the-chosen-one
+# The Chosen One
 
 ## Guide
 
