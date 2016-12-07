@@ -2,7 +2,7 @@
 
 ## Guide
 
-On start of the game u can chose difficulty level: 
+On start of the game you can choose difficulty level: 
 
 1. Easy
 2. Hard
@@ -14,8 +14,13 @@ Left portal will teleport you on left side of the middle platform, right portal 
 
 It's pretty simple so i hope you enjoy the game.
 
-## Keyboard controlls
+## Keyboard controls
 
 Move left - Left arrow key
 Move right - Right arrow key
 Jump - Z key
+
+## How to build
+
+To build this project you need Visual Studio C++ 2010 Express edition. To build it, just open [TheChosenOne.sln] file,
+when project loads use [Debug -> Build Solution] option to do the build.
