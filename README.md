@@ -16,9 +16,9 @@ It's pretty simple so i hope you enjoy the game.
 
 ## Keyboard controls
 
-Move left - Left arrow key
-Move right - Right arrow key
-Jump - Z key
+Move left - Left arrow key  
+Move right - Right arrow key  
+Jump - Z key  
 
 ## How to build
 
