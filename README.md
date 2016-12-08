@@ -24,3 +24,9 @@ Jump - Z key
 
 To build this project you need Visual Studio C++ 2010 Express edition. To build it, just open [TheChosenOne.sln] file,
 when project loads use [Debug -> Build Solution] option to do the build.
+
+## Play without building
+
+If you don't have Visual Studio C++ 2010 Express or just want to play the game without building, you can download it from this Google Drive link:
+
+http://tinyurl.com/z7bhsyl
